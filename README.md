@@ -1,16 +1,83 @@
-## Hi there 👋
+👋 Hi, I am Mayank Raj
+Cybersecurity Enthusiast
 
-<!--
-**mayank9708/mayank9708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ >> About Me
+I'm a cybersecurity professional with hands-on experience in:
 
-Here are some ideas to get you started:
+ISO 27001 Implementation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Identity and Access Management (IAM)
+
+Regulatory Compliance
+
+Cyber Forensics
+
+I am passionate about securing systems, automating security tasks using DevOps tools, and continuously enhancing organizational security and resilience.
+
+💼 Work Experience
+Cybersecurity Engineer
+Technavious Solution Private Limited | Mumbai
+Aug 2023 – Feb 2024
+
+Led the implementation of ISO 27001 standards across the organization.
+
+Conducted internal audits and gap analysis for compliance and improvements.
+
+Implemented and managed IAM solutions.
+
+Enhanced security posture through access controls, encryption, and incident response planning.
+
+🛠️ Projects
+✅ Implementation of ISO 27001
+Objective: Establish a robust Information Security Management System (ISMS) ensuring confidentiality, integrity, and availability of information assets.
+
+✅ Security Automation with DevOps
+Technologies: Git, Docker, Jenkins
+
+Highlights:
+
+Automated web and network scanning using OWASP ZAP and Nmap.
+
+Packaged scanning tools with Docker for scalability.
+
+Integrated security scans in CI/CD pipelines.
+
+Built a dashboard to visualize vulnerabilities.
+
+Adopted DevSecOps practices for continuous security improvements.
+
+Project Repository: 🔗 View Project
+
+🎓 Education
+Post Graduate Diploma in IT Infrastructure, Systems, and Security (PG-DITISS)
+CDAC, Pune | Aug 2024 – Feb 2025
+
+Bachelor of Engineering (B.E.) in Computer Science
+Institute of Engineering, Jiwaji University, Gwalior | 2019 – 2023
+
+🛡️ Certifications
+Certified in Computer Forensics – ISOEH
+
+Certified in Cybersecurity – ISC2
+
+Certified in PCI Compliance – Qualys
+
+CPENT Certification – In Progress
+
+🧰 Technical Skills
+Languages: Python, C, C++, SQL
+
+Security Tools: Nmap, Nessus, Metasploit, Burp Suite, Wireshark, Snort, FTK Imager
+
+Networking & Systems: Cisco Packet Tracer, Active Directory, Windows Server 2022, Linux (Terminal-based Administration)
+
+Cloud & DevOps: Docker, Kubernetes, Jenkins, Terraform
+
+Courses Covered: Wireless & Mobile Security, Cyber Forensics, Infrastructure Security, Data Structures and Algorithms, Object-Oriented Programming
+
+📫 Let's Connect
+LinkedIn
+
+📧 Email: mayankraj851126@gmail.com
+
+
