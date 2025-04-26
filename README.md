@@ -1,8 +1,9 @@
 👋 Hi, I am Mayank Raj
+
 Cybersecurity Enthusiast
 
  >> About Me
-I'm a cybersecurity professional with hands-on experience in:
+I'm a cybersecurity enthusiast with hands-on experience in:
 
 ISO 27001 Implementation
 
