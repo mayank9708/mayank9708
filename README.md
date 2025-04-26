@@ -36,6 +36,7 @@ Enhanced security posture through access controls, encryption, and incident resp
 
 
 ✅ Implementation of ISO 27001
+
 Objective: Establish a robust Information Security Management System (ISMS) ensuring confidentiality, integrity, and availability of information assets.
 
 ✅ Security Automation with DevOps
