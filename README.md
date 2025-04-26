@@ -18,6 +18,7 @@ I am keen on contributing to system security, automating security tasks using De
 
 💼 Work Experience
 
+
 Cybersecurity Engineer
 Technavious Solution Private Limited | Mumbai
 Aug 2023 – Feb 2024
@@ -30,7 +31,9 @@ Implemented and managed IAM solutions.
 
 Enhanced security posture through access controls, encryption, and incident response planning.
 
+
 🛠️ Projects
+
 
 ✅ Implementation of ISO 27001
 Objective: Establish a robust Information Security Management System (ISMS) ensuring confidentiality, integrity, and availability of information assets.
@@ -50,7 +53,7 @@ Built a dashboard to visualize vulnerabilities.
 
 Adopted DevSecOps practices for continuous security improvements.
 
-Project Repository: 🔗 View Project
+Project Repository:
 
 🎓 Education
 Post Graduate Diploma in IT Infrastructure, Systems, and Security (PG-DITISS)
