@@ -92,7 +92,7 @@ _Aug 2023 – Feb 2024_
 ---
 
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mayank-raj-847405205/)
-- 📧 [Email](mailto:mayankraj851126@gmail.com)
+- 💼 LinkedIn: [Mayank Raj](https://www.linkedin.com/in/mayank-raj-847405205/)
+- 📧 Email: [mayankraj851126@gmail.com](mailto:mayankraj851126@gmail.com)
 
 
