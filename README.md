@@ -1,7 +1,6 @@
 
  👋 Hi, I am Mayank Raj
 
-[![GitHub Followers](https://img.shields.io/github/followers/mayank9708?label=Follow%20Me&style=social)](https://github.com/mayank9708)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mayank-raj-847405205/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-red)](mailto:mayankraj851126@gmail.com)
 
@@ -9,9 +8,14 @@
 
 ### **About Me** 🚀
 
-- 🔐 Cybersecurity enthusiast with hands-on experience in **ISO 27001 Implementation**, **Identity and Access Management (IAM)**, **Regulatory Compliance**, and **Cyber Forensics**.
+- 🔐 Cybersecurity enthusiast with hands-on experience in
+  -  **ISO 27001 Implementation**
+  -  **Identity and Access Management (IAM)**
+  -  **Regulatory Compliance**
+  -  **Cyber Forensics**.
+
 - 💻 Keen on contributing to system security, automating security tasks using DevOps tools, and supporting continuous improvements in organizational cybersecurity.
-- 🌱 Currently pursuing **Post Graduate Diploma in IT Infrastructure, Systems, and Security (PG-DITISS)** from CDAC, Pune.
+
 
 
 ---
