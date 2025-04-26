@@ -85,7 +85,7 @@ _Aug 2023 – Feb 2024_
 
 ### **GitHub Stats** 📊
 
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayank9708&show_icons=true&theme=dark&hide_border=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank9708&layout=compact&theme=dark&hide_border=true)
 
