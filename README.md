@@ -3,19 +3,21 @@
 Cybersecurity Enthusiast
 
  >> About Me
-I'm a cybersecurity enthusiast with hands-on experience in:
+  
+  I'm a cybersecurity enthusiast with hands-on experience in:
 
-ISO 27001 Implementation
+ - ISO 27001 Implementation
 
-Identity and Access Management (IAM)
+ - Identity and Access Management (IAM)
 
-Regulatory Compliance
+ - Regulatory Compliance
 
-Cyber Forensics
+ - Cyber Forensics
 
-I am passionate about securing systems, automating security tasks using DevOps tools, and continuously enhancing organizational security and resilience.
+I am keen on contributing to system security, automating security tasks using DevOps tools, and supporting continuous improvements in organizational cybersecurity.
 
 💼 Work Experience
+
 Cybersecurity Engineer
 Technavious Solution Private Limited | Mumbai
 Aug 2023 – Feb 2024
@@ -29,6 +31,7 @@ Implemented and managed IAM solutions.
 Enhanced security posture through access controls, encryption, and incident response planning.
 
 🛠️ Projects
+
 ✅ Implementation of ISO 27001
 Objective: Establish a robust Information Security Management System (ISMS) ensuring confidentiality, integrity, and availability of information assets.
 
