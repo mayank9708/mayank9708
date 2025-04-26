@@ -75,8 +75,6 @@ Cloud & DevOps: Docker, Kubernetes, Jenkins, Terraform
 
 Courses Covered: Wireless & Mobile Security, Cyber Forensics, Infrastructure Security, Data Structures and Algorithms, Object-Oriented Programming
 
-📫 Let's Connect
-LinkedIn
 
 📧 Email: mayankraj851126@gmail.com
 
